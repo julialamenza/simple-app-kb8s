@@ -1,14 +1,15 @@
 # Flask API dockerized
 
 
-- I use Kubectl and minikube for make this works
+##### I use Kubectl and minikube for make this works
 
 <br>
 **Follow this guide if you dont have docker and kubernetes installed in your computer (Mac OS)**
 
 
 <br>
-#### - Docker
+
+#### Docker
 
 ```
 
