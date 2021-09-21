@@ -1,13 +1,13 @@
 # Flask API dockerized
 
 
-I use Kubectl and minikube for make this works
+- I use Kubectl and minikube for make this works
 
-
+<br>
 **Follow this guide if you dont have docker and kubernetes installed in your computer (Mac OS)**
 
 
-
+<br>
 #### - Docker
 
 ```
@@ -137,10 +137,11 @@ cd simple-app-kb8s/
 
 - to deploy de application you need to follow this order:
 
-1- ConfigMap
-2- Deployment
-3- Service
-4-Ingress
+1- Namespace
+2- ConfigMap
+3- Deployment
+4- Service
+5-Ingress
 
 or run
 
