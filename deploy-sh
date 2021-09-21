@@ -1,0 +1,7 @@
+#!/bin/bash
+
+kubectl apply -f ns.yaml
+kubectl apply -f simpleapp-cm.yaml
+kubectl apply -f simpleapp.yaml
+kubectl apply -f simpleapp-svc.yaml
+kubectl apply -f challenge-ingress.yaml
